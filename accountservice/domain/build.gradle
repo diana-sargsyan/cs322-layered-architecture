@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'sia'
+group = 'transaction_service_architecture'
 version = '0.0.1-SNAPSHOT'
 
 repositories {
